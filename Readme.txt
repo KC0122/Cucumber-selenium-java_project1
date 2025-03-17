@@ -1,5 +1,5 @@
 ********************************
-What's this all about?
+What's this all about  ?
 ************************************
 
 -This is a simple demo project for QAs who are keen to learn test automation skills.
